@@ -1,3 +1,4 @@
 bob 
 mate
 jóska
+gitben módosítva a felhőben 
