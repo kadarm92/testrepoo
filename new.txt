@@ -2,3 +2,4 @@ bob
 mate
 jóska
 gitben módosítva a felhőben 
+gépről beírva és küldés fel
